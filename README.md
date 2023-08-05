@@ -56,3 +56,16 @@
   <img style='width:100%;' src='shoes store5.png'>
   </td>
 </table>
+
+
+<table style='border:none;width:100%'>
+  <td style='width:24%;'>
+   <img style='width:100%;' src='pdfextra1.png'>
+  </td>
+  <td style='width:24%;'>
+  <img style='width:100%;' src='pdfextra2.png'>
+  </td>
+   <td style='width:24%;'>
+  <img style='width:100%;' src='pdfextra3.png'>
+  </td>
+</table>
