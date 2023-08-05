@@ -32,7 +32,7 @@
   </td>
    <td style='width:24%;'>
 
-  <img style='width:100%;' src='speech_to_text.png'>
+  <img style='width:100%;' src='speech_to_text3.png'>
   </td>
    </td>
  
