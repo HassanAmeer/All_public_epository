@@ -41,13 +41,13 @@
    <img style='width:100%;' src='kidsapp1.png'>
   </td>
   <td style='width:24%;'>
-  <img style='width:100%;' src='hindlish2.png'>
+  <img style='width:100%;' src='kidsapp2.png'>
   </td>
   <td style='width:24%;'>
-  <img style='width:100%;' src='hindlish3.png'>
+  <img style='width:100%;' src='kidsapp3.png'>
   </td>
    <td style='width:25%;'>
-  <img style='width:100%;' src='hindlish4.png'>
+  <img style='width:100%;' src='kidsapp4.png'>
   </td>
 </table>
 
