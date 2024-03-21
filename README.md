@@ -5,19 +5,51 @@
 # 1. Coffee App
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
-
    <img style='width:100%;' src='coffee1.png'>
   </td>
   <td style='width:24%;'>
-
   <img style='width:100%;' src='coffee2.png'>
   </td>
-   <td style='width:48%;'>
-
+  <td style='width:24%;'>
+  <img style='width:100%;' src='coffee2.png'>
+  </td>
+   <td style='width:25%;'>
   <img style='width:100%;' src='coffee_ui_gif_tempword.gif'>
   </td>
 </table>
 
+
+
+
+ <table style='border:none;width:100%'>
+  <td style='width:24%;'>
+   <img style='width:100%;' src='hindlish2.png'>
+  </td>
+  <td style='width:24%;'>
+  <img style='width:100%;' src='hindlish3.png'>
+  </td>
+  <td style='width:24%;'>
+  <img style='width:100%;' src='hindlish4.png'>
+  </td>
+   <td style='width:25%;'>
+  <img style='width:100%;' src='hindlish5.png'>
+  </td>
+</table>
+
+ <table style='border:none;width:100%'>
+  <td style='width:24%;'>
+   <img style='width:100%;' src='kidsapp1.png'>
+  </td>
+  <td style='width:24%;'>
+  <img style='width:100%;' src='hindlish2.png'>
+  </td>
+  <td style='width:24%;'>
+  <img style='width:100%;' src='hindlish3.png'>
+  </td>
+   <td style='width:25%;'>
+  <img style='width:100%;' src='hindlish4.png'>
+  </td>
+</table>
 
 
 # 2. Speech To Text
@@ -67,5 +99,20 @@
   </td>
    <td style='width:24%;'>
   <img style='width:100%;' src='pdfextra3.png'>
+  </td>
+</table>
+
+ <table style='border:none;width:100%'>
+  <td style='width:24%;'>
+   <img style='width:100%;' src='bopedo1.png'>
+  </td>
+  <td style='width:24%;'>
+  <img style='width:100%;' src='bopedo2.png'>
+  </td>
+  <td style='width:24%;'>
+  <img style='width:100%;' src='bopedo3.png'>
+  </td>
+   <td style='width:25%;'>
+  <img style='width:100%;' src='bopedo1.png'>
   </td>
 </table>
