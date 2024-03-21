@@ -2,21 +2,7 @@
  In Wich Includes All Publics Projects Repositories
  Bith For ## Application ## And Websites
 
-# 1. Coffee App
- <table style='border:none;width:100%'>
-  <td style='width:24%;'>
-   <img style='width:100%;' src='coffee1.png'>
-  </td>
-  <td style='width:24%;'>
-  <img style='width:100%;' src='coffee2.png'>
-  </td>
-  <td style='width:24%;'>
-  <img style='width:100%;' src='coffee2.png'>
-  </td>
-   <td style='width:25%;'>
-  <img style='width:100%;' src='coffee_ui_gif_tempword.gif'>
-  </td>
-</table>
+
 
 
 
@@ -131,3 +117,24 @@
   <img style='width:100%;' src='bopedo4.png'>
   </td>
 </table>
+
+
+
+
+# 1. Coffee App
+ <table style='border:none;width:100%'>
+  <td style='width:24%;'>
+   <img style='width:100%;' src='coffee1.png'>
+  </td>
+  <td style='width:24%;'>
+  <img style='width:100%;' src='coffee2.png'>
+  </td>
+  <td style='width:24%;'>
+  <img style='width:100%;' src='coffee2.png'>
+  </td>
+   <td style='width:25%;'>
+  <img style='width:100%;' src='coffee_ui_gif_tempword.gif'>
+  </td>
+</table>
+
+
