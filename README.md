@@ -51,6 +51,21 @@
   </td>
 </table>
 
+ <table style='border:none;width:100%'>
+  <td style='width:24%;'>
+   <img style='width:100%;' src='copycontact1.png'>
+  </td>
+  <td style='width:24%;'>
+  <img style='width:100%;' src='copycontact2.png'>
+  </td>
+  <td style='width:24%;'>
+  <img style='width:100%;' src='copycontact3.png'>
+  </td>
+   <td style='width:25%;'>
+  <img style='width:100%;' src='copycontact4.png'>
+  </td>
+</table>
+
 
 # 2. Speech To Text
 <table style='border:none;width:100%'>
