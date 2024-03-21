@@ -113,6 +113,6 @@
   <img style='width:100%;' src='bopedo3.png'>
   </td>
    <td style='width:25%;'>
-  <img style='width:100%;' src='bopedo1.png'>
+  <img style='width:100%;' src='bopedo4.png'>
   </td>
 </table>
